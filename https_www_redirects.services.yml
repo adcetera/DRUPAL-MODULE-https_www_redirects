@@ -1,0 +1,6 @@
+services:
+  https_www_redirects.https_www_redirect_subscriber:
+    class: '\Drupal\https_www_redirects\EventSubscriber\RedirectSubscriber'
+    arguments: ['@config.factory', '@cache.config', '@request_stack']
+    tags:
+      - { name: 'event_subscriber' }

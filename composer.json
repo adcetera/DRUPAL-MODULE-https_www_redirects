@@ -1,0 +1,15 @@
+{
+  "name": "adcetera/https_www_redirects",
+  "description": "HTTPS/WWW Redirects - Allows site admins to force a site to use HTTPS, WWW or both.",
+  "type": "drupal-module",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Adcetera",
+      "email": "hello@adcetera.com",
+      "homepage": "https://www.adcetera.com",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+"
+}

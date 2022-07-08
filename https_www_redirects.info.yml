@@ -1,0 +1,5 @@
+name: HTTPS/WWW Redirects
+description: This module enables site admins to force 'https' and/or 'www' in request paths.
+package: Other
+type: module
+core_version_requirement: ^9 || ^10

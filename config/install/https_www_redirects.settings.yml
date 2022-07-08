@@ -1,0 +1,4 @@
+force_https: 0
+force_www: 0
+bypass_https_hosts:
+bypass_www_hosts:

@@ -1,0 +1,9 @@
+https_www_redirects.settings_form:
+  path: '/admin/config/system/https-www'
+  defaults:
+    _form: '\Drupal\https_www_redirects\Form\SettingsForm'
+    _title: 'Https/WWW Redirects Configuration form'
+  requirements:
+    _permission: 'administer site configuration'
+  options:
+    _admin_route: TRUE

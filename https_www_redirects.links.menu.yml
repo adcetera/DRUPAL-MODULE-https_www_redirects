@@ -1,0 +1,5 @@
+https_www_redirects.config:
+  title: 'Https/WWW Redirects Configuration'
+  description: 'Configure HTTPS and WWW redirects for the site.'
+  parent: system.admin_config_system
+  route_name: https_www_redirects.settings_form
